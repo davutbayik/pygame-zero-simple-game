@@ -1,7 +1,7 @@
 import pgzrun
 import random as rnd
 import math
-
+print(type(42.0))
 # Global Variables
 is_game_over = False
 is_game_started = False
