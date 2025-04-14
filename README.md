@@ -86,6 +86,14 @@ Feel free to customize and expand the game! Some ideas include:
 
 Let your imagination guide you — it’s a great way to practice Python while having fun!
 
+## 🖼 In-Game Scereenshots
+
+The images below shows in game screenshots from start menu and game loop.
+
+![Start Menu](assets/monster_smash.png)
+
+![Core loop](assets/monster_smash_2.png)
+
 ## 🤝 Contributing
 
 Contributions are welcome and appreciated! If you’d like to improve this project, here’s how you can help:
