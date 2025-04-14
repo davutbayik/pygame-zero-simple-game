@@ -87,7 +87,7 @@ Feel free to customize and expand the game! Some ideas include:
 
 Let your imagination guide you — it’s a great way to practice Python while having fun!
 
-## 🖼 In-Game Scereenshots
+## 🖼 In-Game Screenshots
 
 The images below shows in game screenshots from start menu and game loop.
 
