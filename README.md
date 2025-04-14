@@ -17,6 +17,7 @@ This project is perfect for those who are just getting started with game develop
 - Score tracking
 - Sprite character animations
 - Background music and sound elements
+- Turn on/off the bacground music
 - Basic game loop
 
 ## 🚀 Getting Started
